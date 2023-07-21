@@ -9,7 +9,6 @@ Welcome to my digital art portfolio! Here, you'll find a collection of creative 
 3. [AI Tools and Effective Prompting](#ai-tools-and-effective-prompting)
 4. [How to Contribute](#how-to-contribute)
 5. [Feedback and Contact](#feedback-and-contact)
-6. [My Work](#my-work)
 
 ## Introduction
 
@@ -18,6 +17,17 @@ Art has always been a source of inspiration and expression for me, and with the 
 ## Artworks Showcase
 
 The heart of this portfolio lies in the Artworks Showcase. Each piece has a unique story behind it, reflecting different themes, moods, and artistic styles. Feel free to browse through the collection, and I hope you find something that resonates with you.
+
+Welcome to my digital art gallery! Here are some of my creative artworks brought to life using the magic of AI tools and effective prompting. Each piece reflects my passion for art and technology, and I'm thrilled to share this artistic journey with you.
+
+1. [Title of Artwork 1](link-to-artwork-1) - A brief description or theme of the artwork.
+2. [Title of Artwork 2](link-to-artwork-2) - A brief description or theme of the artwork.
+3. [Title of Artwork 3](link-to-artwork-3) - A brief description or theme of the artwork.
+4. [Title of Artwork 4](link-to-artwork-4) - A brief description or theme of the artwork.
+
+Feel free to explore these artworks by clicking on the links above. Your feedback and appreciation mean a lot to me, and they encourage me to continue pushing the boundaries of art and technology in my creative journey.
+
+If you have any ideas for new artworks, themes, or improvements, please don't hesitate to share them with me. Let's make this artistic journey even more inspiring together!
 
 ## AI Tools and Effective Prompting
 
@@ -45,15 +55,3 @@ Thank you for visiting my digital art portfolio. Let's embark on this artistic j
 *With artful regards,  
 Hasan Mahmud Manna*
 
-## My Work
-
-Welcome to my digital art gallery! Here are some of my creative artworks brought to life using the magic of AI tools and effective prompting. Each piece reflects my passion for art and technology, and I'm thrilled to share this artistic journey with you.
-
-1. [Title of Artwork 1](link-to-artwork-1) - A brief description or theme of the artwork.
-2. [Title of Artwork 2](link-to-artwork-2) - A brief description or theme of the artwork.
-3. [Title of Artwork 3](link-to-artwork-3) - A brief description or theme of the artwork.
-4. [Title of Artwork 4](link-to-artwork-4) - A brief description or theme of the artwork.
-
-Feel free to explore these artworks by clicking on the links above. Your feedback and appreciation mean a lot to me, and they encourage me to continue pushing the boundaries of art and technology in my creative journey.
-
-If you have any ideas for new artworks, themes, or improvements, please don't hesitate to share them with me. Let's make this artistic journey even more inspiring together!
