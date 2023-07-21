@@ -35,7 +35,9 @@ I believe that art thrives in collaboration and community. If you'd like to cont
 I'm eager to hear your thoughts, feedback, and any questions you may have about the portfolio or the creative process. Feel free to connect with me through the following channels:
 
 - Email: mahde18@gmail.com
-- Linkedin: [@hasanmahmudmanna](https://www.linkedin.com/in/hasanmahmudmanna/)
+- Linkedin: [@hasanmahmudmanna](https://www.linkedin.com/in/hasanmahmudmanna/){:target="_blank"}
+
+
 
 Your support and engagement mean a lot to me, and it encourages me to continue pushing the boundaries of art and technology.
 
