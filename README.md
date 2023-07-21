@@ -87,14 +87,14 @@
     <h2>Feedback and Contact</h2>
     <p>I'm eager to hear your thoughts, feedback, and any questions you may have about the portfolio or the creative process. Feel free to connect with me through the following channels:</p>
     <ul>
-      <li>Email: your.email@example.com</li>
-      <li>Twitter: <a href="https://twitter.com/yourtwitterhandle">@yourtwitterhandle</a></li>
-      <li>Instagram: <a href="https://www.instagram.com/yourinstagramhandle">@yourinstagramhandle</a></li>
+      <li>Email: mahde18@gmail.com</li>
+      <li>Linkedin : <a href="https://www.linkedin.com/in/hasanmahmudmanna/">@hasanmahmudmanna</a></li>
+      
     </ul>
     <p>Your support and engagement mean a lot to me, and it encourages me to continue pushing the boundaries of art and technology.</p>
   </div>
 
   <p>Thank you for visiting my digital art portfolio. Let's embark on this artistic journey together!</p>
-  <p><em>With artful regards,<br>[Your Name]</em></p>
+  <p><em>With artful regards,<br>Hasan Mahmud Manna</em></p>
 </body>
 </html>
