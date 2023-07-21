@@ -9,6 +9,7 @@ Welcome to my digital art portfolio! Here, you'll find a collection of creative 
 3. [AI Tools and Effective Prompting](#ai-tools-and-effective-prompting)
 4. [How to Contribute](#how-to-contribute)
 5. [Feedback and Contact](#feedback-and-contact)
+6. [My Work](#my-work)
 
 ## Introduction
 
@@ -37,18 +38,12 @@ I'm eager to hear your thoughts, feedback, and any questions you may have about 
 - Email: <a href="mailto:mahde18@gmail.com" target="_blank">mahde18@gmail.com</a>
 - Linkedin: <a href="https://www.linkedin.com/in/hasanmahmudmanna/" target="_blank">@hasanmahmudmanna</a>
 
-
-
-
-
-
 Your support and engagement mean a lot to me, and it encourages me to continue pushing the boundaries of art and technology.
 
 Thank you for visiting my digital art portfolio. Let's embark on this artistic journey together!
 
 *With artful regards,  
 Hasan Mahmud Manna*
-
 
 ## My Work
 
@@ -59,3 +54,6 @@ Welcome to my digital art gallery! Here are some of my creative artworks brought
 3. [Title of Artwork 3](link-to-artwork-3) - A brief description or theme of the artwork.
 4. [Title of Artwork 4](link-to-artwork-4) - A brief description or theme of the artwork.
 
+Feel free to explore these artworks by clicking on the links above. Your feedback and appreciation mean a lot to me, and they encourage me to continue pushing the boundaries of art and technology in my creative journey.
+
+If you have any ideas for new artworks, themes, or improvements, please don't hesitate to share them with me. Let's make this artistic journey even more inspiring together!
