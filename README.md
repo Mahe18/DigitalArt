@@ -88,8 +88,8 @@
     <p>I'm eager to hear your thoughts, feedback, and any questions you may have about the portfolio or the creative process. Feel free to connect with me through the following channels:</p>
     <ul>
       <li>Email: mahde18@gmail.com</li>
-      <li>Linkedin : <a href="https://www.linkedin.com/in/hasanmahmudmanna/">@hasanmahmudmanna</a></li>
-      
+      <li>Twitter: <a href="https://www.linkedin.com/in/hasanmahmudmanna/">@hasan mahmud manna</a></li>
+      <li>Instagram: <a href="https://www.instagram.com/yourinstagramhandle">@yourinstagramhandle</a></li>
     </ul>
     <p>Your support and engagement mean a lot to me, and it encourages me to continue pushing the boundaries of art and technology.</p>
   </div>
