@@ -34,8 +34,8 @@ I believe that art thrives in collaboration and community. If you'd like to cont
 
 I'm eager to hear your thoughts, feedback, and any questions you may have about the portfolio or the creative process. Feel free to connect with me through the following channels:
 
-- Email: <a href="mailto:mahde18@gmail.com" target=" _blank">mahde18@gmail.com</a>
-- Linkedin: <a href="https://www.linkedin.com/in/hasanmahmudmanna/" target=" _blank">@hasanmahmudmanna</a>
+- Email: <a href="mailto:mahde18@gmail.com" target="_blank">mahde18@gmail.com</a>
+- Linkedin: <a href="https://www.linkedin.com/in/hasanmahmudmanna/" target="_blank">@hasanmahmudmanna</a>
 
 
 
@@ -48,3 +48,14 @@ Thank you for visiting my digital art portfolio. Let's embark on this artistic j
 
 *With artful regards,  
 Hasan Mahmud Manna*
+
+
+## My Work
+
+Welcome to my digital art gallery! Here are some of my creative artworks brought to life using the magic of AI tools and effective prompting. Each piece reflects my passion for art and technology, and I'm thrilled to share this artistic journey with you.
+
+1. [Title of Artwork 1](link-to-artwork-1) - A brief description or theme of the artwork.
+2. [Title of Artwork 2](link-to-artwork-2) - A brief description or theme of the artwork.
+3. [Title of Artwork 3](link-to-artwork-3) - A brief description or theme of the artwork.
+4. [Title of Artwork 4](link-to-artwork-4) - A brief description or theme of the artwork.
+
